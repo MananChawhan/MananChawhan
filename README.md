@@ -83,10 +83,10 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="http://linkedin.com/in/amit-yadav-310ba021a/" target="_blank">
+  <a href="https://www.linkedin.com/in/manan-chawhan-77998a23b/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://app.netlify.com/teams/amit24/projects" target="_blank">
+  <a href="https://app.netlify.com/teams/mananchawhan/projects" target="_blank">
     <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
   </a>
 </p>
