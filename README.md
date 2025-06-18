@@ -1,5 +1,5 @@
 <!-- Profile Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Amit%20Yadav&fontSize=40&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=60&descAlign=50" alt="Amit Yadav GitHub Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Manan%20chawhan&fontSize=40&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=60&descAlign=50" alt="Manan Chawhan GitHub Header Banner" />
 
 <!-- Visitor Badge -->
 <p align="center">
